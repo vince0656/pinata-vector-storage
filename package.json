@@ -1,0 +1,22 @@
+{
+  "name": "pinata-vector-storage",
+  "version": "1.0.0",
+  "description": "https://www.pinata.cloud/blog/announcing-the-pinata-vector-storage-public-beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vince0656/pinata-vector-storage.git"
+  },
+  "author": "Vincent Almeida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vince0656/pinata-vector-storage/issues"
+  },
+  "homepage": "https://github.com/vince0656/pinata-vector-storage#readme",
+  "dependencies": {
+    "pinata": "2.4.9"
+  }
+}
