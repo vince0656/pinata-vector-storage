@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/vince0656/pinata-vector-storage#readme",
   "dependencies": {
+    "dotenv": "^17.2.0",
     "pinata": "2.4.9"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "typescript": "^5.8.3"
   }
 }
